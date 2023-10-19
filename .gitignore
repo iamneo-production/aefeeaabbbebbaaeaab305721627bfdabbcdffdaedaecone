@@ -1,0 +1,25 @@
+# Ignore Testcase Files
+        junit
+        karma
+        react
+        puppeteer
+        screenshots
+        shell
+        nunit
+        nodejest
+        jasmine
+        selenium
+        cucumber
+
+        # Ignore .gitignore
+        .gitignore
+
+        # Ignore node modules
+        node_modules
+
+        # Git Build files
+        /pom.xml
+        .github
+
+        # ignore done file
+        done
